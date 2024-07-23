@@ -3,7 +3,7 @@
 
 <br>
 
-<p>Terraform published mmodules: https://registry.terraform.io/namespaces/yivolve</p>
+<p>Terraform published modules: https://registry.terraform.io/namespaces/yivolve</p>
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
