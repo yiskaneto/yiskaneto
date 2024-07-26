@@ -1,4 +1,4 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Alex Ruiz</h1>
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm Alex</h1>
 <h3 align="left">I do Automation/AWS/DevOps things</h3>
 
 <br>
